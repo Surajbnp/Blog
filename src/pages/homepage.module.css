@@ -1,0 +1,13 @@
+.active {
+  color: tomato;
+}
+
+.heading {
+  font-family: "Sedgwick Ave Display", cursive;
+}
+
+.subHeading{
+  font-family: 'Righteous', cursive;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(0px);
+}
